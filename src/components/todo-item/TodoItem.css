@@ -1,0 +1,11 @@
+.remove-btn-style {
+    flex: 1;
+    background-color: #ee0b0b;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 100%;
+    float: right;
+    cursor: pointer;
+}

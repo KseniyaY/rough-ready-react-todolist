@@ -1,0 +1,29 @@
+.add-todo-container {
+    display: flex;
+    margin: 15px 0;
+}
+
+.add-todo-input, .add-todo-btn {
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.add-todo-input {
+    flex: 10;
+    font-size: 14px;
+    line-height: 2.5;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 5px 10px;
+}
+
+.add-todo-btn {
+    flex: 1;
+    background-color: #57aeff;
+    color: #fff;
+}
+
+.add-todo-btn:focus {
+    background-color: grey;
+    outline: none;
+}
