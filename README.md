@@ -1,3 +1,7 @@
+This is a repository with the code for the rough-ready-react-todolist in order to try my hand at the new to me library (in contrast to the Angular framework).
+
+![todolist ui](https://github.com/KseniyaY/rough-ready-react-todolist/blob/master/public/todo_list_ui.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
